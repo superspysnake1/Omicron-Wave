@@ -1,5 +1,5 @@
 # Math 511 Omicron Wave Modeling Project
-As a part of my mathematical modeling series (WWU Math 510-515), 
+As a part of my mathematical modeling series (WWU Math 510-515), I completed a project on 
 
 Project Writeup: [Omicrom Wave Modeling Project Writeup.pdf](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicrom%20Wave%20Modeling%20Project%20Writeup.pdf)
 
