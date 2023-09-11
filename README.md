@@ -1,12 +1,10 @@
-# Math 510 Net Ecosystem Exchange Project
-As a part of my mathematical modeling series (WWU Math 510-515), I completed a group project where we developed a model for the net ecosystem exchange (NEE) of several salt marshes in the Wanquiot Bay in Massachusetts. We were given data from researchers from West Virginia University, which tracked the NEE of the salt marshes along with 5 other variables. We derived the model using the Buckingham-pi theorem, which finds the relationships between variables by using the dimensional units of each quantity. After developing the model, we used R to calculate the parameters of the model. The final writeup was generated using LaTeX.
+# Math 511 Omicron Wave Modeling Project
+As a part of my mathematical modeling series (WWU Math 510-515), 
 
-Project Description: [NEE Project Details.pdf](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Project%20Details.pdf)
+Project Writeup: [Omicrom Wave Modeling Project Writeup.pdf](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicrom%20Wave%20Modeling%20Project%20Writeup.pdf)
 
-Project Writeup: [NEE Project Writeup.pdf](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Project%20Writeup.pdf)
+Full Dataset: [Omicron Wave Dataset - Full.xlsx](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20Dataset%20-%20Full.xlsx)
 
-Full Dataset: [NEE Dataset - Full.xlsx](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Dataset%20-%20Full.xlsx)
+Cleaned Dataset: [Omicron Wave Dataset - Cleaned.csv](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20Dataset%20-%20Full.xlsx)
 
-Cleaned Dataset: [NEE Dataset - Cleaned.csv](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Dataset%20-%20Cleaned.csv)
-
-R Code: [NEE Project Code](https://github.com/superspysnake1/Net-Ecosystem-Exchange/blob/2ea5870874bed28a060d0661d0f63b5f60218822/NEE%20Project%20Code.R)
+MATLAB Code: [Omicron Wave SIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SIR%20Model%20Code.m), [Omicron Wave SEIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SEIR%20Model%20Code.m), [Omicron Wave SVIR Model Code.m](https://github.com/superspysnake1/Omicron-Wave/blob/4ea42a449dfac51de5117b57382a1ab2f8c6980b/Omicron%20Wave%20SVIR%20Model%20Code.m)
